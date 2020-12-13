@@ -1,6 +1,0 @@
-INIT_FCALL     
-SEND_VAL       
-SEND_VAL       
-DO_ICALL       
-INCLUDE_OR_EVAL
-RETURN         
